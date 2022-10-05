@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "wwr1"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Pictures/Screenshots/codingassignment"
+		},
+		{
+			"path": "../../Desktop/intro to python"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "wwr1"
+	}
+}
