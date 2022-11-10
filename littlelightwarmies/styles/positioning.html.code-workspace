@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Pictures/Screenshots/positioning.html"
+		},
+		{
+			"path": "../../wwr1"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "wwr1"
+	}
+}
